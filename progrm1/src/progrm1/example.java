@@ -1,5 +1,5 @@
 package progrm1;
-
+//this is a simple line
 import java.util.Scanner;
 
 public class example {
